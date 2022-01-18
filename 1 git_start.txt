@@ -1,0 +1,15 @@
+1. first we need to register ourselves to git so git can recongnize us
+
+	Name = git config --global user.name "sagar"
+	Email = git config --global user.email "sagarkoshti51@gmail.com"
+
+Check wheather we registred or not 
+	
+	git config --list 
+
+Get username and email
+	
+	git config user.name
+	git config user.email
+
+
